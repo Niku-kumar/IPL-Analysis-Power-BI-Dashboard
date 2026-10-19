@@ -26,7 +26,7 @@ The project transforms raw cricket datasets into meaningful insights through int
 
 ### IPL Analysis Dashboard — 2008 to 2025
 
-![IPL Analysis Dashboard](screenshots/dashboard-preview.png)
+![IPL Analysis Dashboard](screenshots/IPL Analysis Dashboard.png)
 
 The dashboard includes a season selector that allows users to explore statistics for individual IPL seasons. The screenshot above shows the 2025 season selected.
 
